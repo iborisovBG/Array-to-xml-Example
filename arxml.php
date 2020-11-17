@@ -1,16 +1,9 @@
 <?php
 
+//Im ready with this file
 
 
 $new_variable = "good push";
-
-
-
-
-
-
-
-
 
 function array_to_xml(array $arr, SimpleXMLElement $xml)
 {
@@ -21,7 +14,6 @@ function array_to_xml(array $arr, SimpleXMLElement $xml)
     }
     return $xml;
 }
-
 
 
 $cnt = 0;
