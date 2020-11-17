@@ -1,7 +1,15 @@
 <?php
 
 
-echo "this is only for test";
+
+$new_variable = "good push";
+
+
+
+
+
+
+
 
 
 function array_to_xml(array $arr, SimpleXMLElement $xml)
