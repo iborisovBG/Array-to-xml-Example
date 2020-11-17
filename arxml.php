@@ -1,4 +1,9 @@
 <?php
+
+
+echo "this is only for test";
+
+
 function array_to_xml(array $arr, SimpleXMLElement $xml)
 {
     foreach ($arr as $k => $v) {
